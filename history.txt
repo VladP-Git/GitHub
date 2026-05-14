@@ -1,0 +1,280 @@
+    1  ls -al
+    2  cd ../
+    3  ls -al
+    4  cd c:/Users/ICH/git/
+    5  ls -al
+    6  git status 
+    7  git clone git@github.com:VladP-Git/git-branch.git
+    8  ls -al
+    9  cd ./git-branch/
+   10  ls -al
+   11  git status
+   12  cat README.md 
+   13  date >> README.md
+   14  cat README.md 
+   15  git status
+   16  git add README.md 
+   17  git status
+   18  git commit README.md -m "actualization" "New Date"
+   19  git commit README.md -m "actualization" -m "New Date"
+   20  git status
+   21  git remote -v
+   22  git checkout -b gitignore
+   23  git status
+   24  git status
+   25  git add .gitignore 
+   26  git status
+   27  git commit .gitignore -m "Add .gitignore"
+   28  git status
+   29  git checkout main
+   30  git status
+   31  git push -u origin main
+   32  git status
+   33  git checkout gitignore 
+   34  git push gitignore
+   35  git status
+   36  git log
+   37  git log --all --graph --decorate --oneline
+   38  git log --all --graph --decorate --oneline
+   39  cd c:\Users\ICH\gitls
+   40  cd c:/Users/ICH/gitls
+   41  cd c:\Users\ICH\gitls
+   42  cd c:\Users\ICH\git
+   43  cd c:\Users\ICH\gitgit config --global user.name VladP
+   44  cd c:\Users\ICH\git\
+   45  clear
+   46  git config --global user.name "VladP"
+   47  git config --global user.email "x.fox.de@gmail.com"
+   48  git config --global -l
+   49  ls
+   50  cd /git
+   51  cd /git/
+   52  cd git/
+   53  ls
+   54  ls
+   55  mkdir 060326-ptm
+   56  ls
+   57  cd 060326-ptm/
+   58  nano 20260422.txt
+   59  git initt
+   60  ls
+   61  git init
+   62  ls
+   63  ls -al
+   64  ls -al .git/
+   65  git status
+   66  "git add
+   67  git status
+   68  git status
+   69  20260422.txt
+   70  git status
+   71  git add 20260422.txt
+   72  git status
+   73  git commit -m "Inital commit"
+   74  git status
+   75  git log
+   76  nano 20260422.txt 
+   77  git status
+   78  git commit -am "Add 1 lines in text"
+   79  git log
+   80  git remote -v
+   81  ls
+   82  nano README
+   83  nano README
+   84  git remote add origin git@github.com:VladP-Git/060326-ptm.git
+   85  nano README
+   86  git status
+   87  git remote -v
+   88  git status
+   89  git branch -M main
+   90  git status
+   91  git push -u origin main
+   92  git status
+   93  git status
+   94  git push -u origin main
+   95  git pull
+   96  ls -al
+   97  git pull original/main/
+   98  git pull original/main
+   99  git status
+  100  git pull origin/main
+  101  git pull origin main
+  102  git status
+  103  ls -al
+  104  git remote -v
+  105  git pull main
+  106  git pull
+  107  git pull origin main 
+  108  git branch --set-upstream-to=origin/main
+  109  git pull origin main 
+  110  git fetch origin main
+  111  git merge origin/main 
+  112  git push -f
+  113  cd ..
+  114  ls
+  115  cd ..
+  116  ls
+  117  cd git/
+  118  ls
+  119  ls -al
+  120  history 
+  121  history ls -al
+  122  ls -al
+  123  cd 060326-ptm/
+  124  ls -al
+  125  nano 20260422.txt 
+  126  git status 
+  127  git add 20260422.txt 
+  128  git status 
+  129  git commit -m For Vi -m Meine kleine Goldblume!
+  130  git status 
+  131  git commit -m ForVi -m Meine kleine Goldblume!
+  132  git commit -m ForVi -m MeineKleineGoldblume!
+  133  git status 
+  134  git push 
+  135  git status 
+  136   git log --all --graph --decorate --oneline
+  137   git log --all --graph --decorate --oneline
+  138  ls
+  139  pwd
+  140  ls -al
+  141  cd ..
+  142  ls -al
+  143  cd ../
+  144  ls -al
+  145  cd ./
+  146  ls -al
+  147  mc
+  148  cd c:\Users\ICH\gitls -al
+  149  ls -al
+  150  cd c:\Users\ICH\gitlsls -al
+  151  cd c:\Users\ICH\git
+  152  cd c:\Users\ICH\gitls -al
+  153  cd c:\Users\ICH\gitls
+  154  ls -al
+  155  cd Users/ICH/git
+  156  cd ../
+  157  ls -al
+  158  cd ./
+  159  ls -al
+  160  git 
+  161  ls -al
+  162  cd c:/Users/ICH/git/
+  163  ls -al
+  164  mkdir.exe git_intro
+  165  ls -al
+  166  cd 060326-ptm/
+  167  ls -al
+  168  cd ../
+  169  cd git_intro/
+  170  ls -al
+  171  git init
+  172  git status 
+  173  ls -al
+  174  git status 
+  175  git add OrigamiFox1.png 
+  176  git commit -M main
+  177  git commit -m "Added photo"
+  178  git branch -M main
+  179  git status 
+  180  git remote add origin git@github.com:VladP-Git/git_intro.git
+  181  git push -u origin main
+  182  git status 
+  183  git var GIT_EDITOR
+  184  git config --global core.editor "nano"
+  185  git var GIT_EDITOR
+  186  git status 
+  187  git add OrigamiFox1_1.png 
+  188  git status 
+  189  date.exe 
+  190  date
+  191  echo #git_intro >> README.md
+  192  ls
+  193  ls -al
+  194  echo "#git_intro" >> README.md
+  195  ls -al
+  196  nano README.md
+  197  date >> README.md
+  198  nano README.md
+  199  git commit
+  200  git status 
+  201  git push 
+  202  git status 
+  203  date >> test.txt
+  204  nano test.txt
+  205  git status 
+  206  git add test.txt 
+  207  git status 
+  208  git commit
+  209  git status 
+  210  git status 
+  211  git add README.md
+  212  git status 
+  213  git commit -m "first commit" -m "Детальное описание изменений"
+  214  git status 
+  215  git push 
+  216  git status 
+  217  git log 
+  218  git pull 
+  219  git log 
+  220  git log --oneline
+  221  git status
+  222  git pull
+  223  git log
+  224  quit
+  225  ls -al
+  226  git remote -v
+  227  git log --all --graph --decorate --oneline
+  228  git branch -v
+  229  git status 
+  230  git log
+  231  git checkout -b test-merge
+  232  git log --all --oneline
+  233  git status 
+  234  git log --all --oneline
+  235  git pull 
+  236  ls -al
+  237  git log -g
+  238  git log -g -online
+  239  git log -g --oneline
+  240  git SHOW ea3fcc5
+  241  git show ea3fcc5
+  242  ls -al
+  243  git status 
+  244  git remote -v
+  245  git branch 
+  246  git log --oneline 
+  247  git log --oneline --decorate --graph --all
+  248  git checkout main
+  249  git branch 
+  250  git status 
+  251  git push 
+  252  git checkout gitignore
+  253  git status 
+  254  git push 
+  255   git push origin gitignore
+  256  git status 
+  257   git push
+  258  git push --set-upstream origin gitignore
+  259   git push
+  260  ls -al
+  261  git clone git@github.com:VladP-Git/GitHub.git
+  262  ls -al
+  263  cd GitHub/
+  264  ls -al
+  265  git checkout -b feature
+  266  git status 
+  267  git add README.md 
+  268  git status 
+  269  git commit -m "Update README"
+  270  git status 
+  271  git commit --amend -m "Update README + ammend"
+  272  git status 
+  273  git remote -v
+  274  git log 
+  275  git push 
+  276  git push --set-upstream origin feature
+  277  git status 
+  278  git checkout main
+  279  git merge feature 
+  280  history > history.txt
